@@ -15,11 +15,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mauri870/ransomware/client"
-	"github.com/mauri870/ransomware/cmd"
-	"github.com/mauri870/ransomware/cryptofs"
-	"github.com/mauri870/ransomware/tor"
-	"github.com/mauri870/ransomware/utils"
+	"github.com/target111/ransomware/client"
+	"github.com/target111/ransomware/cmd"
+	"github.com/target111/ransomware/cryptofs"
+	"github.com/target111/ransomware/tor"
+	"github.com/target111/ransomware/utils"
 )
 
 var (

